@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 The blog : https://brahimmachkouri.github.io/theblog/
+
+Host your own blog on github : https://github.com/brahimmachkouri/minimal-blog-for-github-pages

@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Host your own blog on github : https://github.com/brahimmachkouri/minimal-blog-for-github-pages
-
-Here is an example : https://brahimmachkouri.github.io/theblog/
